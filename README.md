@@ -1,5 +1,5 @@
 ### 一、简介
->`hoaven-libMybatis`项目(https://github.com/hoaven/hoaven-libMybatis)的插件，旨在减少写mapper的工作，mapper会在编译时自动生成。
+>`hoaven-libMybatis`项目( https://github.com/hoaven/hoaven-libMybatis )的插件，旨在减少写mapper的工作，mapper会在编译时自动生成。
 ### 二、使用
 >需要在通用dao中指定model定义的包位置、编译时生成mapper的包位置等。
 ```java
